@@ -256,3 +256,4 @@ Moving further in this project, we will integrate a text-to speech dataset to fu
 
 - Parker, A. (2023, February 3). Optical Character Recognition: Then and Now. Weights & Biases. https://wandb.ai/andrea0/optical-char/reports/Optical-Character-Recognition-Then-and-Now--VmlldzoyMDY0Mzc0. 
 
+
